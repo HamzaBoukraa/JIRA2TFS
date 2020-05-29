@@ -1,0 +1,12 @@
+{
+    "TFS": {
+        "ServerUrl": "http://localhost:8080/tfs",
+        "TeamProject": "TeamProject/TeamSolution"
+    },
+    "JIRA": {
+        "ServerUrl": "https://my-jira-project.atlassian.net/rest/api/2",
+        "User": "jira-user-name",
+        "Token": "jira-token",
+        "DaysOffset": 365
+    }
+}

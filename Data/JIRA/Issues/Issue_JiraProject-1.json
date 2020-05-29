@@ -1,0 +1,45 @@
+﻿{
+    "id":  "1",
+    "self":  "https://my-jira-project.atlassian.net/rest/api/2/issue/1",
+    "key":  "JiraProject-1",
+    "fields":  {
+                   "issuetype":  {
+                                     "self":  "https://my-jira-project.atlassian.net/rest/api/2/issuetype/11102",
+                                     "id":  "11102",
+                                     "description":  "",
+                                     "iconUrl":  "https://my-jira-project.atlassian.net/secure/viewavatar?size=medium\u0026avatarId=10308\u0026avatarType=issuetype",
+                                     "name":  "Incident",
+                                     "subtask":  false,
+                                     "avatarId":  10308
+                                 },
+                   "status":  {
+                                  "self":  "https://my-jira-project.atlassian.net/rest/api/2/status/10001",
+                                  "description":  "",
+                                  "iconUrl":  "https://my-jira-project.atlassian.net/",
+                                  "name":  "Done",
+                                  "id":  "10001",
+                                  "statusCategory":  {
+                                                         "self":  "https://my-jira-project.atlassian.net/rest/api/2/statuscategory/3",
+                                                         "id":  3,
+                                                         "key":  "done",
+                                                         "colorName":  "green",
+                                                         "name":  "Done"
+                                                     }
+                              },
+                   "workratio":  -1,
+                   "progress":  {
+                                    "progress":  0,
+                                    "total":  0
+                                },
+                   "priority":  {
+                                    "self":  "https://my-jira-project.atlassian.net/rest/api/2/priority/3",
+                                    "iconUrl":  "https://my-jira-project.atlassian.net/images/icons/priorities/medium.svg",
+                                    "name":  "Medium",
+                                    "id":  "3"
+                                },
+                   "aggregateprogress":  {
+                                             "progress":  0,
+                                             "total":  0
+                                         }
+               }
+}
